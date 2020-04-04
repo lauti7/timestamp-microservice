@@ -1,7 +1,7 @@
 # Timestamp Microservice
 ## What is this?
 It is a Simple API built with Node JS and Express.
-API has only one GET route:
+API has only one GET route that return JSON response with Unix time and UTC time.
 - */api/timestamp/:date*.
 ---
 Date param is able to receive two date formats:
