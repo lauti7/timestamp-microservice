@@ -3,6 +3,7 @@
 It is a Simple API built with Node JS and Express.
 API has only one GET route:
 - */api/timestamp/:date*.
+<br/>
 Date param is able to receive two date formats:
 - Y-M-D
 - Unix Timestamp (10 or 13 digits)
