@@ -1,0 +1,15 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ['timestamp', 'timestamp parser', 'timestamp converter', 'unix to date', 'date to unix', 'unix', 'date', 'dateParser'],
+  "author": "Lautaro Bustos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
