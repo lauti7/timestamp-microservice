@@ -1,6 +1,7 @@
 # Timestamp Microservice
 ## What is this?
-It is a Simple API built with Node JS and Express.<br/> API has only one GET route */api/timestamp/:date*. Date param is able to receive two date formats:
+It is a Simple API built with Node JS and Express.<br/> API has only one GET route:
+- */api/timestamp/:date*.<br/> Date param is able to receive two date formats:
   - Y-M-D
   - Unix Timestamp (10 or 13 digits)
 
